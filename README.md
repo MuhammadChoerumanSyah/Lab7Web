@@ -52,13 +52,32 @@ Untuk mengakses nya gunakan URL : http://localhost/lab7_php_dasar/php_dasar.php?
 
 ![img14!](/gambar_php_dasar/gambarphpdasar14.png)
 ![img15!](/gambar_php_dasar/gambarphpdasar15.png)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
-![img11!](/gambar_php_dasar/)
+
+## Kondisi Switch
+![img11!](/gambar_php_dasar/gambarphpdasar16.png)
+![img11!](/gambar_php_dasar/gambarphpdasar17.png)
+## Perulangan for
+![img11!](/gambar_php_dasar/gambarphpdasar18.png)
+![img11!](/gambar_php_dasar/gambarphpdasar19.png)
+## Perulangan while
+![img11!](/gambar_php_dasar/gambarphpdasar20.png)
+![img11!](/gambar_php_dasar/gambarphpdasar21.png)
+## Perulangan do while
+![img11!](/gambar_php_dasar/gambarphpdasar22.png)
+![img11!](/gambar_php_dasar/gambarphpdasar23.png)
+
+## Pertanyaan dan Tugas 
+
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+
+## Jawab
+# 1. Kode awal tanpa PHP
+![img11!](/gambar_php_dasar/gambarphpdasar24.png)
+
+# 2. Kemudian tambahkan kode PHP
+# 3. Setelah memilih Database Administrator
+![img11!](/gambar_php_dasar/gambarphpdasar25.png)
+# 4. Setelah memilih Software Developer
+![img11!](/gambar_php_dasar/gambarphpdasar26.png)
+# 5. Setelah memilih Web Developer
+![img11!](/gambar_php_dasar/gambarphpdasar27.png)
